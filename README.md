@@ -3,10 +3,10 @@ Hello, my name is Thiago Donschat.
 I'm enrolled at the program Starter Fullstack Web Developer at <a href="https://www.growdev.com.br/">GROWDEV</a>.
 
 
-🔭 I’m currently working in some personal projects with:
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript).
+🔭 I’m currently working in some personal projects with: <br>
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) <br>
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) <br> 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) <br>
  
 🌱 I’m currently learning all the techs described above.
  
