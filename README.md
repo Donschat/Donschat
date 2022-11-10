@@ -1,4 +1,4 @@
-<div>
+<div align=center>
    <h1>Hello, my name is Thiago Donschat</h1>
 </div>
  <div>
@@ -16,7 +16,6 @@
 [![Linkedin: ](https://img.shields.io/badge/-Thiago_Donschat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagobd)](https://www.linkedin.com/in/thiagobd)
 [![Gmail Badge](https://img.shields.io/badge/-donschatt@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:donschatt@gmail.com)](mailto:donschatt@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Donschat)
-
 </div>
     <div align=center>
         <h1>Contribution Activity</h1>
