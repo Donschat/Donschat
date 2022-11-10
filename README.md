@@ -1,8 +1,9 @@
 <div>
- <h1 style="text-align: center;">Hello, my name is Thiago Donschat</h1>
+   <h1 style="text-align: center;">Hello, my name is Thiago Donschat</h1>
 </div>
- I'm enrolled at the program Starter Fullstack Web Developer at <a href="https://www.growdev.com.br/">GROWDEV</a>.
-
+ <div>
+    <p style="background-color: #f03;"> I'm enrolled at the program Starter Fullstack Web Developer at <a href="https://www.growdev.com.br/">GROWDEV</a>.</p>
+ </div>
 
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) <br>
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) <br> 
