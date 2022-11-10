@@ -1,4 +1,4 @@
-<div>
+<div text-align:"center">
  <h1>Hello, my name is Thiago Donschat</h1>
 </div>
  I'm enrolled at the program Starter Fullstack Web Developer at <a href="https://www.growdev.com.br/">GROWDEV</a>.
