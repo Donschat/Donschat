@@ -1,5 +1,5 @@
-<div style="text-align: center;">
- <h1>Hello, my name is Thiago Donschat</h1>
+<div>
+ <h1 style="text-align: center;">Hello, my name is Thiago Donschat</h1>
 </div>
  I'm enrolled at the program Starter Fullstack Web Developer at <a href="https://www.growdev.com.br/">GROWDEV</a>.
 
