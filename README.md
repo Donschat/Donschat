@@ -1,8 +1,8 @@
 <div>
-   <h1 style="text-align: center;">Hello, my name is Thiago Donschat</h1>
+   <h1>Hello, my name is Thiago Donschat</h1>
 </div>
  <div>
-    <p style="background-color: #f03;"> I'm enrolled at the program Starter Fullstack Web Developer at <a href="https://www.growdev.com.br/">GROWDEV</a>.</p>
+    <p> I'm enrolled at the program Starter Fullstack Web Developer at <a href="https://www.growdev.com.br/">GROWDEV</a>.</p>
  </div>
 
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) <br>
@@ -22,10 +22,8 @@
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=Donschat&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
-        <!--
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Donschat&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
-        -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Donschat&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
