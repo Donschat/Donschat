@@ -1,12 +1,8 @@
-<div align=center>
-   <h1>Hello, my name is Thiago Donschat</h1>
-</div>
 
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) <br>
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) <br> 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) <br>
  
- 🌱 I’m currently learning all the techs described above.
  
  📫 Please find me on:
 
